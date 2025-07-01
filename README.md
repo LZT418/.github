@@ -19,3 +19,13 @@ We’re calculating.
 
 ## ☕ Status: 418
 > "I'm a teapot. I refuse to brew coffee because I am, permanently, a teapot."
+
+---
+
+## 🧪 Experimental by nature  
+We mod, crack, bypass, and bend the rules — not for fame, but for function.
+
+> 🧠 Low profile by default.  
+> 🔒 Public silence. Private excellence.
+
+---
