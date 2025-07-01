@@ -1,4 +1,10 @@
-# LZT418
+```
+ __    ____ ______   
+ ||      // | || |   
+ ||     //    ||     
+ ||__| //__   ||     
+                     
+```
 
 **Lazy Team 418** —  
 We don’t brew coffee. We break convention.
