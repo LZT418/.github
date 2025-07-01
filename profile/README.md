@@ -28,3 +28,12 @@ We mod, crack, bypass, and bend the rules — not for fame, but for function.
 > 🔒 Public silence. Private excellence.
 
 ---
+
+### ☕ `418` Forever
+> We are LZT418 —  
+> The request you don’t see coming.  
+> The teapot that spills *only when it matters*.
+
+---
+
+© LZT418 — low profile by design.
