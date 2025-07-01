@@ -17,8 +17,7 @@ We’re calculating.
 
 ---
 
-## ☕ Status: 418
-> "I'm a teapot. I refuse to brew coffee because I am, permanently, a teapot."
+[![Status: I'm a Teapot](https://img.shields.io/badge/status-418%20I'm%20a%20teapot-inactive?style=for-the-badge&logo=coffeescript)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 
 ---
 
